@@ -23,4 +23,4 @@
 4. Iterate over the house hash to print out all the values of the hash.
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-arrays-hashes-todo' title='Todo: Arrays and Hashes'>Todo: Arrays and Hashes</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-L1 Todo: Arrays and Hashes</p>
